@@ -1,0 +1,10 @@
+.container {
+  flex: 1;
+  background: dodgerblue;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  color: #fff;
+}
